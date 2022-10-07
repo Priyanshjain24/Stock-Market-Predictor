@@ -1,7 +1,6 @@
 # Stock-Market-Predictor
 This is a self project done by me on Machine Learning.
 The motive of this project is to create a Stock Market Price Prediction using Machine Learning.
-
 This github repo has 4 files:
 
 In the first file (named Basic Info), we analyse the dataset and the statistics of ecah coloumn. We also make sure that no null enteries are present in our dataset and if there are, we assign the average of that entire coloumn to that particlaur entry of that cell.
