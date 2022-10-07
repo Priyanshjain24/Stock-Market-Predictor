@@ -3,6 +3,8 @@ This is a self project done by me on Machine Learning.
 The motive of this project is to create a Stock Market Price Prediction using Machine Learning.
 This github repo has 4 files:
 
+We will be working on the Google Stock Prices Dataset (taken from the SOC project on "Stock Market Prediction using ARIMA Model").
+
 In the first file (Basic_Tasks), we analyse the dataset and the statistics of ecah coloumn. We also make sure that no null enteries are present in our dataset and if there are, we assign the average of that entire coloumn to that particlaur entry of that cell.
 
 The second file is only about EDA (Exploratory Data Analysis). We plot the values of different variables in coloumns using matplotlib to try to get some information and insights from the plots. This helps us in extracting some key features that our model should also obey to check the correctness of our model visually.
