@@ -11,4 +11,6 @@ The second file is only about EDA (Exploratory Data Analysis). We plot the value
 
 From the third file (Regression), we start with building our machine laerning models. We start with amongst the most basic machine learning algorithms, linear regression. We prepare our dataset to so that it can be fed into the linear regression model. We plot the predicted and actual values after training the model. The plot shows very clearly that linear regression has a very low accuracy and is not the best model for this dataset.
 
-We then move to the fourth file (LSTM), which has our deep learning model. We use the LSTM (Long short-term memory) deep learning neural netowrk for this. We prepare our dataset, feed them into the model and plot the predicted and actual stock prices with time. We also plot the loss function v/s epochs. We observe that this model is way better than linear regression and the predicted outcomes are quite close to actual prices.
+We then to the fourth file (LSTM), which has our deep learning model. We use the LSTM (Long short-term memory) deep learning neural netowrk for this. We prepare our dataset, feed them into the model and plot the predicted and actual stock prices with time. We also plot the loss function v/s epochs. We observe that this model is way better than linear regression and the predicted outcomes are quite close to actual prices.
+
+Lastly in the fourth file (ARIMA), we test the ARIMA model. We proceed as before and find out that that the best model is LSTM amongst all the 3 models we tried.
